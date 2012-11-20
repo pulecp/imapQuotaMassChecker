@@ -43,7 +43,8 @@ Fill mail_accounts.txt by example and run a script:
 	name, password = line.split()
 	print('%20s '%name, end = ' ')
 	check(name,password)
-    f.close() 
+    f.close()
+    input("press any key to exit")
 
 ## Struct of mail_accounts.txt
 
