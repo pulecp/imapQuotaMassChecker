@@ -1,0 +1,3 @@
+<username> <password>
+Bob bobsPassword123
+Alice@domain.com AlicesPaSSword
