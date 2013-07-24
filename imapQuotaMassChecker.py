@@ -1,6 +1,6 @@
 #!/usr/bin/python
         
-# Source: http://segfault.in/2010/07/check-your-imap-quota-using-python-imaplib/
+# Source of some code: http://segfault.in/2010/07/check-your-imap-quota-using-python-imaplib/
 # or: http://pastebin.com/raw.php?i=yJje6Ua0	
     
 import getpass, imaplib, re
