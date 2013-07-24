@@ -30,4 +30,4 @@ for line in f:
     print('%20s '%name, end = ' ')
     check(name,password)
 f.close()
-input("press any key to exit")
+input("press Enter any key to exit")
